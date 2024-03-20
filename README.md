@@ -36,3 +36,6 @@ Contributions and feedback are welcome! Feel free to fork this project, make imp
 ## Future Updates
 
 This project is a work in progress. Expect regular updates and improvements as I continue to enhance its functionality and features.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
